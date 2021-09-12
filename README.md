@@ -1,2 +1,2 @@
 # prog_lab1
-this is first se prog lab
+this is the first se prog lab
